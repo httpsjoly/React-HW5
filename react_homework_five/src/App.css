@@ -1,0 +1,23 @@
+h1 {
+  color: aqua;
+  text-align: center;
+  text-shadow: 2px 1px  #ff00d4;
+  font-size: 45px;
+}
+
+p {
+  color: #003cff;
+  font-size: 20px;
+}
+
+.small-text {
+  color: #ff00d4;
+  font-size: 25px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: aquamarine;
+  border-radius: 10px;
+  cursor: pointer;
+}
